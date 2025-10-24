@@ -15,12 +15,7 @@ export default function BannerHero() {
 
         <div className="flex flex-col gap-4">
           <p className="text-white md:text-2xl text-center mx-auto">
-            O site de agendamento de gastos é uma plataforma online que permite
-            aos usuários planejar, registrar e acompanhar seus gastos futuros,
-            como contas fixas, parcelas, investimentos, compras programadas e
-            muito mais. Com uma interface intuitiva, o sistema oferece uma visão
-            clara do fluxo financeiro, ajudando na tomada de decisões e evitando
-            surpresas no orçamento.
+            A Chronos foi fundada por Hudson Junior, Riquelme Campos, Janaina Alves e Luiz Otávio, que, durante o período de graduação, perceberam uma lacuna no mercado de aplicativos de produtividade e finanças pessoais. Diante disso, decidiram unir esforços para criar uma solução integrada e simples que ajudasse as pessoas a organizar compromissos e controlar gastos em um único ambiente digital. O objetivo da Chronos é oferecer um sistema web intuitivo, acessível e eficiente, que proporcione mais controle, praticidade e organização no dia a dia dos usuários.
           </p>
 
           <Link
